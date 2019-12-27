@@ -10,7 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
     //TODO: ここにボタンとラベル、テキストフィールドを紐付けましょう！
     @IBOutlet weak var saveButton: UIButton!
     @IBOutlet weak var showButton: UIButton!
